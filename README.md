@@ -1,3 +1,11 @@
+# We've Moved!
+
+This repository has found a new home! 
+
+You can now find everything at [https://github.com/0xsoniclabs/sonic](https://github.com/0xsoniclabs/sonic). 
+
+Please update your bookmarks and any links you have to this repo.
+
 # Sonic 
 
 EVM-compatible chain secured by the Lachesis consensus algorithm.
